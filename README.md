@@ -1,6 +1,6 @@
-## Hi there 👋
 
-<# Hi there, I'm Sona Mathew 👋
+
+Hi there, I'm Sona Mathew 
 
 🎓 I’m a second-year MSc Data Science student  
 💡 Passionate about solving real-world problems with data  
