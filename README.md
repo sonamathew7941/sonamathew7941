@@ -23,7 +23,7 @@
 ## 📈 What I'm Up To
 
 - Exploring new trends in data science and AI
-- Working on academic and personal projects (more coming soon!)
+- Working on academic and personal projects 
 
 ## 🌱 Let's Connect
 
